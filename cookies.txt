@@ -1,0 +1,15 @@
+Let's make a game!
+  name:Atom Splitter
+  author:Postvita
+  by:Postvita
+  desc:split the atoms
+  created:18/1/2023
+  updated:18/1/2023
+  version:0.01
+
+//settings
+Settings
+background:lab.png
+building cost increase:115%
+building cost refund:50%
+stylesheet:url
